@@ -1,14 +1,14 @@
-# Digital Assets
+# Task Management Dashboard
 
-   This Project for Relative startup test assignment
+   This Project for TagMango startup test assignment
 
 ## Build with
 
-* [React.js](https://reactjs.org/docs/getting-started.html)
+* [Next.js](https://reactjs.org/docs/getting-started.html)
 * [WindiCss](https://windicss.org/)
 
 
-# Getting Started with Create React App
+# Getting Started with Create Next App
 
 This project was bootstrapped with [Create Next App](https://nextjs.org/docs/api-reference/create-next-app).
 
