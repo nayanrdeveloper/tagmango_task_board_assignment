@@ -1,23 +1,33 @@
-# Next.js + WindiCSS Example
+# Digital Assets
 
-This example shows how to use [WindiCSS](https://windicss.org/) with Next.js.
+   This Project for Relative startup test assignment
 
-## Deploy your own
+## Build with
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/hello-world)
+* [React.js](https://reactjs.org/docs/getting-started.html)
+* [WindiCss](https://windicss.org/)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-windicss&project-name=with-windicss&repository-name=with-windicss)
 
-## How to use
+# Getting Started with Create React App
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+This project was bootstrapped with [Create Next App](https://nextjs.org/docs/api-reference/create-next-app).
 
-```bash
-npx create-next-app --example with-windicss
-# or
-yarn create next-app --example with-windicss
-# or
-pnpm create next-app --example with-windicss
-```
+## Available Scripts
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+In the project directory, you can run:
+
+### `npm install`
+
+All npm packages are first install
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+#### Screenshot
+
+![Home Page](public/tagMango.png)
